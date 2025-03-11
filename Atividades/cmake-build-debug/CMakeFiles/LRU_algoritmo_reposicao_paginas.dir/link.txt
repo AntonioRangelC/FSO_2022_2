@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LRU_algoritmo_reposicao_paginas.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\LRU_algoritmo_reposicao_paginas.dir/objects.a @CMakeFiles\LRU_algoritmo_reposicao_paginas.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\LRU_algoritmo_reposicao_paginas.dir/objects.a -Wl,--no-whole-archive -o LRU_algoritmo_reposicao_paginas.exe -Wl,--out-implib,libLRU_algoritmo_reposicao_paginas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LRU_algoritmo_reposicao_paginas.dir\linklibs.rsp
